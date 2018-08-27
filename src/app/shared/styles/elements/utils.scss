@@ -21,6 +21,10 @@
         color: $argo-running-color;
     }
 
+    &--pending {
+        color: $argo-init-color;
+    }
+
     &--init {
         color: $argo-init-color;
     }

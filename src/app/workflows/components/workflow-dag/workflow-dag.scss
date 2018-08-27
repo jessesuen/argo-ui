@@ -91,6 +91,10 @@
             }
         }
 
+        &--pending {
+            background-color: $argo-init-color;
+        }
+
         &--running {
             background-color: $argo-running-color;
             &::after {
